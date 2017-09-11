@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testprojtest.dir/main.cpp.o  -o testprojtest -rdynamic {CMAKE_BINARY_DIR}/gmock/googlemock/libgmock_main.a -pthread 
